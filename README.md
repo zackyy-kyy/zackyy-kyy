@@ -1,16 +1,21 @@
-## Hi there 👋
+### Halo, Saya Zacky! 👋
 
-<!--
-**zackyy-kyy/zackyy-kyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya seorang Web Developer pemula yang senang membangun website dan terus mempelajari teknologi pengembangan web baru.
 
-Here are some ideas to get you started:
+- 🔭 Proyek yang pernah saya buat: **Website Cafe (PHP)** & **Letter Project (HTML)**
+- 🌱 Saat ini sedang mendalami: **HTML, CSS, PHP, & JavaScript**
+- 📫 Hubungi saya melalui: **[Tulis Email atau Instagram/LinkedIn kamu di sini]**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Bahasa & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,php,js,vscode,git,github" alt="tech stack" />
+</p>
+
+---
+
+### 📊 Statistik GitHub
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zackyy-kyy&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+</div>
